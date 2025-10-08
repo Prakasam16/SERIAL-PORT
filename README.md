@@ -54,10 +54,10 @@ void main(void)
 ```
 
 ### OUTPUT:
-<img width="1919" height="1079" alt="asc" src="https://github.com/user-attachments/assets/5644803f-72f7-4e00-836a-f52c3124b022" />
+![serial A](https://github.com/user-attachments/assets/b88270de-5761-47f9-a49a-bd815024238d)
 
 
-<img width="1919" height="1079" alt="des" src="https://github.com/user-attachments/assets/e5a111c1-9ae3-489e-a7ae-9086ecd1732c" />
+![serial](https://github.com/user-attachments/assets/d51dd9a6-20d9-4de4-af15-2263097d26ec)
 
 ### RESULT:
 Thus the Serial transfer of Single Byte / Character using 8051 KEIL was done and shown the output.
